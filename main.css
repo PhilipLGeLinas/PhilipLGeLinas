@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+
+}
+
+footer {
+    text-align: center;
+}
