@@ -46,6 +46,7 @@ footer {
     display: -moz-flex;
     display: -ms-flex;
     display: -o-flex;
+    margin-top: .5%;
 }
 
 @media only screen and (max-width: 900px) {
