@@ -5,27 +5,17 @@
     margin: 0;
 }
 
-html {
-
-}
-
 header {
     text-align: center;
-    height: 10em;
+    height: auto;
     background: #111111;
     color: white;
-    display: flex;
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flex;
-    display: -o-flex;
 }
 
 card {
     width: 48.5%;
     height: 20em;
     margin: .5%;
-    box-shadow: black .4em .4em .4em;
     border: .2em solid #111111;
     display: inline-block;
     transition: transform .2s;
