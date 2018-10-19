@@ -8,13 +8,13 @@
 header {
     text-align: center;
     height: auto;
-    background: #111111;
+    background: #111;
     color: white;
 }
 
 .nav {
     display: inline-block;
-    background: #111111;
+    background: #111;
     color: white;
     width: 5em;
     height: 2em;
@@ -23,11 +23,15 @@ header {
     text-decoration: none;
 }
 
+.nav:hover {
+    background: #444;
+}
+
 card {
     width: 48.5%;
     height: 20em;
     margin: .5%;
-    border: .2em solid #111111;
+    border: .2em solid #111;
     display: inline-block;
     transition: transform .2s;
 }
@@ -40,7 +44,7 @@ card:hover {
 footer {
     text-align: center;
     height: 10em;
-    background: #111111;
+    background: #111;
     color: white;
     display: flex;
     display: -webkit-flex;
