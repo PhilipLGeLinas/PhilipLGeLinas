@@ -12,7 +12,7 @@ header {
     color: white;
 }
 
-li {
+.nav {
     display: inline-block;
     background: #111111;
     color: white;
@@ -20,6 +20,7 @@ li {
     height: 2em;
     text-align: center;
     justify-content: center;
+    text-decoration: none;
 }
 
 card {
