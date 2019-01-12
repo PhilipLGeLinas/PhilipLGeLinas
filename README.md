@@ -1,2 +1,2 @@
-# philipgelinas
-A Website Dedicated to the Life and Studies of Philip GeLinas
+# PhilipGeLinas
+A website dedicated to the life and studies of Philip GeLinas
