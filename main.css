@@ -49,6 +49,18 @@ card:hover {
     cursor: pointer;
 }
 
+block {
+    height: 5em;
+    background: #111;
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
 footer {
     text-align: center;
     height: 10em;
