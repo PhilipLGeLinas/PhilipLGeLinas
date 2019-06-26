@@ -51,6 +51,7 @@ card:hover {
 
 block {
     height: 5em;
+    width: 100%;
     background: #111;
     display: flex;
     display: -webkit-flex;
@@ -77,5 +78,17 @@ footer {
 @media only screen and (max-width: 900px) {
     card {
         width: 98%;
+    }
+    footer {
+        display: inline-block;
+        height: 18em;
+        width: 100%;
+        text-align: center;
+    }
+    .footer {
+        display: inline-block;
+        padding-bottom: 1em;
+        justify-content: center;
+        text-align: center;
     }
 }
