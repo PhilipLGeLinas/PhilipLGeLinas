@@ -79,16 +79,4 @@ footer {
     card {
         width: 98%;
     }
-    footer {
-        display: inline-block;
-        height: 18em;
-        width: 100%;
-        text-align: center;
-    }
-    .footer {
-        display: inline-block;
-        padding-bottom: 1em;
-        justify-content: center;
-        text-align: center;
-    }
 }
