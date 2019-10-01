@@ -13,6 +13,10 @@ header {
     background-size: cover;
 }
 
+header h1, h4 {
+    font-family: Zapfino, serif;
+}
+
 .sticky {
     position: sticky;
     position: -webkit-sticky;
@@ -45,7 +49,7 @@ card {
     transition: transform .2s;
     background-size: cover;
     color: transparent;
-    padding: .4em .4em .4em .4em;
+    padding: 1em 1em 1em 1em;
 }
 
 card:hover {
@@ -56,7 +60,6 @@ card:hover {
 card.active {
     color: white;
     background-color: black;
-    transform: rotateY(360deg);
 }
 
 #uw {
@@ -81,7 +84,7 @@ card.active {
 
 #tokyo {
     background-image: url("images/tokyo.jpg");
-    box-shadow: darkorange .4em .4em .4em;
+    box-shadow: yellow .4em .4em .4em;
 }
 
 #tokyo.active {
@@ -111,7 +114,7 @@ card.active {
 
 #karate {
     background-image: url("images/karate.jpg");
-    box-shadow: black .4em .4em .4em;
+    box-shadow: saddlebrown .4em .4em .4em;
 }
 
 #karate.active {
@@ -119,9 +122,43 @@ card.active {
     background-color: black;
 }
 
+#gallery {
+    height: 24em;
+    text-align: center;
+    border: 3em solid #333;
+    padding: 3em 0 3em 0;
+}
+
+.image {
+    width: 12em;
+    height: 12em;
+    margin-right: 1em;
+}
+
+#left-arrow {
+    width: 4em;
+    height: 4em;
+    margin-bottom: 4em;
+    margin-right: 1em;
+}
+
+#left-arrow:hover {
+    cursor: pointer;
+}
+
+#right-arrow {
+    width: 4em;
+    height: 4em;
+    margin-bottom: 4em;
+}
+
+#right-arrow:hover {
+    cursor: pointer;
+}
+
 footer {
     text-align: center;
-    height: 5em;
+    height: 7em;
     background: #111;
     color: white;
     display: flex;
@@ -129,11 +166,35 @@ footer {
     display: -moz-flex;
     display: -ms-flex;
     display: -o-flex;
-    margin-top: .5%;
+    padding: 2em;
 }
 
 @media only screen and (max-width: 900px) {
     card {
         width: 98%;
+    }
+}
+
+@media only screen and (max-width: 1405px) {
+    #image5 {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1195px) {
+    #image4 {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 980px) {
+    #image3 {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 770px) {
+    #image2 {
+        display: none;
     }
 }

@@ -3,47 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="A Website Dedicated to the Life and Studies of Philip GeLinas">
-    <meta name="keywords" content="Philip,GeLinas,Software,Engineer,WSU,UW">
+    <meta name="keywords" content="Philip,Lanny,GeLinas,Software,Engineer,WSU,UW">
     <meta name="author" content="Philip GeLinas">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Life of Philip GeLinas</title>
     <link rel="stylesheet" href="main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
 <body>
 <header>
     <h1 style="display: inline-block; width: 100%; padding: 1em 1em .5em 1em; font-size: 2.5em;">The Life of
         Philip L. GeLinas</h1>
-    <h4 style="display: inline-block; padding: 1em 1em;"><i>Click any image to learn more.</i></h4>
+    <h4 style="display: inline-block; padding: 1em 1em;">Click any image to learn more.</h4>
 </header>
 <nav class="sticky" style="background: #111;">
     <a class="nav" href="#education">Education</a>
-    <a class="nav" href="#internships">Internships</a>
-    <a class="nav" href="#resume">Resume</a>
+    <a class="nav" href="images/resume.pdf" target="_blank">Resume</a>
 </nav>
 <section id="education">
-    <card id="uw">I studied medicine at the University of Washington.</card>
-    <card id="wsu">I studied software engineering at Washington State University.</card>
-</section>
-<section>
-    <card id="tokyo">After living in Tokyo for two years, I have become fluent in Japanese.</card>
-    <card id="eagle">I am an eagle scout.</card>
+    <card id="uw">I studied biology and chemistry at the University of Washington in pursuit of a career in medicine or
+        dentistry. After shadowing a variety of health-care professionals, I realized that I was more interested in
+        biotechnology.
+    </card>
+    <card id="wsu">I received a full-ride scholarship from Washington State University to pursue my Bachelor's degree in
+        Software Engineering. I spent the summers of 2018 and 2019 interning for MuleSoft and Space Dynamics Laboratory.
+    </card>
 </section>
 <section>
     <card id="software">I am a satellite software engineer.</card>
+    <card id="tokyo">After living in Tokyo for two years, I have become fluent in Japanese.</card>
+</section>
+<section>
     <card id="karate">I am a black belt in Shudokan karate.</card>
+    <card id="eagle">I am an eagle scout.</card>
 </section>
-<h1 id="resume" style="text-align: center; padding-bottom: .6em;">Philip's Resume</h1>
-<section style="text-align: center;">
-    <img src="images/resume.png" style="width: 49%;" alt="My Resume">
-    <img src="images/references.png" style="width: 49%;" alt="My References">
+<br>
+<section id="gallery">
+    <img id="left-arrow" src="images/left-arrow.png" alt="Left Arrow" onmouseup="scrollImages('left')">
+    <img id="image1" class="image" src="images/albuquerque.jpeg" alt="Philip L. GeLinas">
+    <img id="image2" class="image" src="images/afrl.jpeg" alt="Philip L. GeLinas">
+    <img id="image3" class="image" src="images/philip.jpeg" alt="Philip L. GeLinas">
+    <img id="image4" class="image" src="images/hiking.jpeg" alt="Philip L. GeLinas">
+    <img id="image5" class="image" src="images/flatsat.jpeg" alt="Philip L. GeLinas">
+    <img id="right-arrow" src="images/right-arrow.png" alt="Right Arrow" onmouseup="scrollImages('right')">
 </section>
-<h1 id="internships" style="text-align: center; padding-bottom: .6em;">Philip's Internship Experience</h1>
-<section style="text-align: center;">
-    <img src="images/METER.png" style="width: 49%;" alt="METER Group">
-    <img src="images/SpaceDynamics.png" style="width: 49%;" alt="Space Dynamics Laboratory">
-</section>
-<footer style="padding: 2em;">
-    <h2 class="footer" style="margin: auto; padding: 0 1em;">Copyright &copy; 2018 Philip L. GeLinas</h2>
+<footer>
+    <h2 class="footer" style="margin: auto; padding: 0 1em;">Copyright &copy; 2019 Philip L. GeLinas</h2>
 </footer>
 <script src="main.js"></script>
 </body>
