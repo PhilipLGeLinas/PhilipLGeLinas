@@ -43,7 +43,7 @@ header h1, h4 {
 card {
     width: 48.5%;
     height: 20em;
-    margin: .5%;
+    margin: 2% .5% 2% .5%;
     border: .2em solid #111;
     display: inline-block;
     transition: transform .2s;
@@ -125,7 +125,8 @@ card.active {
 #gallery {
     height: 24em;
     text-align: center;
-    border: 3em solid #333;
+    border-top: 3em solid #333;
+    border-bottom: 3em solid #333;
     padding: 3em 0 3em 0;
 }
 
@@ -175,25 +176,25 @@ footer {
     }
 }
 
-@media only screen and (max-width: 1405px) {
+@media only screen and (max-width: 1220px) {
     #image5 {
         display: none;
     }
 }
 
-@media only screen and (max-width: 1195px) {
+@media only screen and (max-width: 1000px) {
     #image4 {
         display: none;
     }
 }
 
-@media only screen and (max-width: 980px) {
+@media only screen and (max-width: 800px) {
     #image3 {
         display: none;
     }
 }
 
-@media only screen and (max-width: 770px) {
+@media only screen and (max-width: 580px) {
     #image2 {
         display: none;
     }
