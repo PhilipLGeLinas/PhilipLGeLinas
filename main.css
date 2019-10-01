@@ -8,8 +8,9 @@
 header {
     text-align: center;
     height: auto;
-    background: #111;
     color: white;
+    background: #111 url("images/background.jpeg");
+    background-size: cover;
 }
 
 .sticky {
@@ -42,6 +43,9 @@ card {
     border: .2em solid #111;
     display: inline-block;
     transition: transform .2s;
+    background-size: cover;
+    color: transparent;
+    padding: .4em .4em .4em .4em;
 }
 
 card:hover {
@@ -49,9 +53,75 @@ card:hover {
     cursor: pointer;
 }
 
+card.active {
+    color: white;
+    background-color: black;
+    transform: rotateY(360deg);
+}
+
+#uw {
+    background-image: url("images/UW.jpg");
+    box-shadow: rebeccapurple .4em .4em .4em;
+}
+
+#uw.active {
+    background-image: none;
+    background-color: black;
+}
+
+#wsu {
+    background-image: url("images/WSU.jpg");
+    box-shadow: crimson .4em .4em .4em;
+}
+
+#wsu.active {
+    background-image: none;
+    background-color: black;
+}
+
+#tokyo {
+    background-image: url("images/tokyo.jpg");
+    box-shadow: darkorange .4em .4em .4em;
+}
+
+#tokyo.active {
+    background-image: none;
+    background-color: black;
+}
+
+#eagle {
+    background-image: url("images/eagle.jpeg");
+    box-shadow: darkblue .4em .4em .4em;
+}
+
+#eagle.active {
+    background-image: none;
+    background-color: black;
+}
+
+#software {
+    background-image: url("images/software.jpeg");
+    box-shadow: darkgreen .4em .4em .4em;
+}
+
+#software.active {
+    background-image: none;
+    background-color: black;
+}
+
+#karate {
+    background-image: url("images/karate.jpg");
+    box-shadow: black .4em .4em .4em;
+}
+
+#karate.active {
+    background-image: none;
+    background-color: black;
+}
+
 footer {
     text-align: center;
-    height: 10em;
+    height: 5em;
     background: #111;
     color: white;
     display: flex;
