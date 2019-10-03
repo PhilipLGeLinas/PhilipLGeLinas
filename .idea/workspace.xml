@@ -89,7 +89,6 @@
       <change beforePath="$PROJECT_DIR$/../philipgelinas/test/file_existence.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -199,7 +198,9 @@
       <workItem from="1562780075582" duration="2799000" />
       <workItem from="1563141192579" duration="81000" />
       <workItem from="1569907865286" duration="16479000" />
-      <workItem from="1569981426666" duration="773000" />
+      <workItem from="1569981426666" duration="1115000" />
+      <workItem from="1570004526615" duration="207000" />
+      <workItem from="1570078847982" duration="153000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1539897223777</created>
