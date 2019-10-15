@@ -2,91 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b8e7d44-476d-4084-b69e-56b36a1922b9" name="Default Changelist" comment="sticky nav">
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.github/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.github/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.github/SUPPORT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.idea/philipgelinas.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.jscsrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/.travis/github_deploy_key.enc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/doc/TOC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/doc/css.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/doc/extend.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/doc/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/doc/html.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/doc/js.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/doc/misc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/doc/usage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/humans.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/img/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/js/vendor/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/js/vendor/modernizr-3.6.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/tile-wide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/dist/tile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/gulpfile.babel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/modernizr-config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/doc/TOC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/doc/css.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/doc/extend.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/doc/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/doc/html.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/doc/js.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/doc/misc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/doc/usage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/humans.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/img/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/tile-wide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/src/tile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/test/file_content.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../philipgelinas/test/file_existence.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -134,7 +49,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -200,7 +115,12 @@
       <workItem from="1569907865286" duration="16479000" />
       <workItem from="1569981426666" duration="1115000" />
       <workItem from="1570004526615" duration="207000" />
-      <workItem from="1570078847982" duration="153000" />
+      <workItem from="1570078847982" duration="300000" />
+      <workItem from="1570164621764" duration="254000" />
+      <workItem from="1570181597559" duration="113000" />
+      <workItem from="1570298022432" duration="604000" />
+      <workItem from="1570394739966" duration="4000" />
+      <workItem from="1571175013624" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1539897223777</created>
