@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b8e7d44-476d-4084-b69e-56b36a1922b9" name="Default Changelist" comment="sticky nav">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -121,7 +122,8 @@
       <workItem from="1570298022432" duration="604000" />
       <workItem from="1570394739966" duration="4000" />
       <workItem from="1571175013624" duration="173000" />
-      <workItem from="1571175779178" duration="31000" />
+      <workItem from="1571175779178" duration="142000" />
+      <workItem from="1571594708224" duration="174000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1539897223777</created>
@@ -164,6 +166,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="first commit" />
     <MESSAGE value="README updated" />
     <MESSAGE value="nav implemented" />
